@@ -20,8 +20,8 @@ This is an automated, high-performance bioinformatic pipeline designed for both 
 
 ```bash
 # Clone the repository
-git clone https://github.com/YangZiChen-glitch/ENCODE-style-ChIP-CUT-Tag-pipeline.git
-cd ENCODE-style-ChIP-CUT-Tag-pipeline
+git clone https://github.com/YangZiChen-glitch/ENCODE-style-ChIPseq-CUT-Tag-pipeline.git
+cd ENCODE-style-ChIPseq-CUT-Tag-pipeline
 
 # Create and activate environment
 conda env create -f chipseq.yml
