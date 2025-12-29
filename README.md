@@ -44,7 +44,7 @@ chipseq -s MySample -x /path/to/bt2_index -g mm --pe -r1 R1.fq.gz -r2 R2.fq.gz -
 #### Single-End (SE) - Standard ChIP-seq
 
 ```bash
-chipseq -s MySample -x /path/to/bt2_index -g hg38 --se -r1 sample.fq.gz --tech chip
+chipseq -s MySample -x /path/to/bt2_index -g hg --se -r1 sample.fq.gz --tech chip
 ```
 
 <br>
